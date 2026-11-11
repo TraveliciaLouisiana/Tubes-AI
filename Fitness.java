@@ -1,4 +1,4 @@
-/* class fitness untuk menghitung cost dan mengubahnya jadi fitness */
+/* class Fitness untuk menghitung cost dan mengubahnya jadi fitness */
 public final class Fitness {
 
     private Fitness() {
