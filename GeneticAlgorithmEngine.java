@@ -66,7 +66,7 @@ public class GeneticAlgorithmEngine {
     } 
 
     // menjalankan ga hingga budget, stagnasi, atau batas waktu tercapai
-    public Individual run() { // method utama menjalankan ga
+    public Individual run() { // method utama menjalankan GA
         startTimeMillis = System.currentTimeMillis(); // catat waktu mulai program
         initializePopulation(); // panggil inisialisasi populasi awal
 
