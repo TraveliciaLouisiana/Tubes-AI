@@ -63,8 +63,8 @@ public final class Repair {
     } 
 
     /**
-     * memperbaiki bit string agar panjangnya numEmpty dan jumlah bit 1 tepat p.
-     * jika angka 1 terlalu banyak, sebagian diubah menjadi 0; jika kurang, sebagian angka 0 diubah menjadi 1.
+     * memperbaiki bit string agar panjangnya numEmpty dan jumlah bit 1 tepat p
+     * jika angka 1 terlalu banyak, sebagian diubah menjadi 0; jika kurang, sebagian angka 0 diubah menjadi 1
      */
     public static int[] repairBits(int[] genes, Grid grid, Random random) { // method untuk memperbaiki kromosom bit string
         validateGrid(grid); // panggil validasi grid

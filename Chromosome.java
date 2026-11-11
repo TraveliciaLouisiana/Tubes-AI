@@ -2,8 +2,7 @@ import java.util.Random;
 
 /**
  * Class Chromosome: untuk merepresentasikan semua kromosom pada Genetic Algorithm.
- * Setiap kromosom harus dapat diubah menjadi indeks sel kosong, divalidasi,
- * disalin, di-crossover, dan dimutasi.
+ * Setiap kromosom harus dapat diubah menjadi indeks sel kosong, divalidasi, disalin, di-crossover, dan dimutasi.
  */
 public interface Chromosome {
     // menghasilkan indeks sel kosong yang dipilih sebagai lokasi Fire Station

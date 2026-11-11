@@ -1,4 +1,4 @@
-/* class gaconfig untuk menyimpan semua hyperparameter dan pilihan operator algoritma genetik */
+/* class GAConfig untuk menyimpan semua hyperparameter dan pilihan operator algoritma genetik */
 public class GAConfig {
 
     // pilihan jenis representasi kromosom

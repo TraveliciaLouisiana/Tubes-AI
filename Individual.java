@@ -1,4 +1,4 @@
-/* class individual: menyimpan satu solusi ga, yaitu kromosom beserta cost dan fitness-nya */
+/* class Individual: menyimpan satu solusi ga, yaitu kromosom beserta cost dan fitness-nya */
 public class Individual implements Comparable<Individual> { // mendeklarasikan class individual yang mengimplement comparable
 
     private final Chromosome chromosome; // menyimpan objek kromosom individu
