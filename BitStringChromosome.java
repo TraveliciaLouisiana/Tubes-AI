@@ -3,8 +3,8 @@ import java.util.Random;
 
 /**
  * Class ini digunakan untuk membuat kromosom dalam bentuk bit string
- * Bit string adalah kumpulan angka 0 dan 1 yang mewakili penempatan Fire Station
- * Angka 1 berarti sel dipilih untuk Fire Station, sedangkan 0 berarti tidak dipilih
+ * bit string adalah kumpulan angka 0 dan 1 yang mewakili penempatan Fire Station
+ * angka 1 berarti sel dipilih untuk Fire Station, sedangkan 0 berarti tidak dipilih
  */
 public class BitStringChromosome implements Chromosome {
 
